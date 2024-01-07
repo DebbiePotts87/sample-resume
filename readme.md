@@ -1,5 +1,5 @@
 # Sample Resume
-#### Mini project carried out through Code Institute during the User Centric Frontend Developement section.
+#### Second mini project carried out through Code Institute during the User Centric Frontend Developement section.
 ---
 [View the live project here](https://debbiepotts87.github.io/how-to-visit-the-netherlands/rotterdam.html)
 <br>
